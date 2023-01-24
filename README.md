@@ -1,1 +1,1 @@
-# flask-k8-test
+# flask-k8-demo
